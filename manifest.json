@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "lead tracker",
+    "action": {
+        "default_popup": "chromeex.html",
+        "default_icon": "IMG_3288.PNG"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
